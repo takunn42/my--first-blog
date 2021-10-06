@@ -1,3 +1,4 @@
+#.gitignoreはGit の管理に含めないファイルを指定するためのファイル
 *.pyc
 *~
 /.vscode
